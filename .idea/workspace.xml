@@ -24,9 +24,20 @@
       <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="238" column="19" selection-start-line="238" selection-start-column="19" selection-end-line="238" selection-end-column="19" />
-              <folding />
+            <state vertical-scroll-proportion="10.296233">
+              <caret line="598" column="33" selection-start-line="598" selection-start-column="33" selection-end-line="598" selection-end-column="33" />
+              <folding>
+                <element signature="e#10899#11723#0" expanded="false" />
+                <element signature="e#11724#12540#0" expanded="false" />
+                <element signature="e#12542#13369#0" expanded="false" />
+                <element signature="e#13370#14189#0" expanded="false" />
+                <element signature="e#14191#15047#0" expanded="false" />
+                <element signature="e#15048#15918#0" expanded="false" />
+                <element signature="e#15920#16149#0" expanded="false" />
+                <element signature="e#16150#16371#0" expanded="false" />
+                <element signature="e#16373#16475#0" expanded="false" />
+                <element signature="e#16476#16570#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,6 +51,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$USER_HOME$/Desktop/移动端简历/jianli/css/index.css" />
       </list>
     </option>
   </component>
@@ -80,7 +92,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -115,11 +126,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/tuniu1/项目" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -139,10 +151,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17559524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17559524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -181,7 +193,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#10899#11723#0" expanded="false" />
+            <element signature="e#11724#12540#0" expanded="false" />
+            <element signature="e#12542#13369#0" expanded="false" />
+            <element signature="e#13370#14189#0" expanded="false" />
+            <element signature="e#14191#15047#0" expanded="false" />
+            <element signature="e#15048#15918#0" expanded="false" />
+            <element signature="e#15920#16149#0" expanded="false" />
+            <element signature="e#16150#16371#0" expanded="false" />
+            <element signature="e#16373#16475#0" expanded="false" />
+            <element signature="e#16476#16570#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -189,15 +212,64 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#10899#11723#0" expanded="false" />
+            <element signature="e#11724#12540#0" expanded="false" />
+            <element signature="e#12542#13369#0" expanded="false" />
+            <element signature="e#13370#14189#0" expanded="false" />
+            <element signature="e#14191#15047#0" expanded="false" />
+            <element signature="e#15048#15918#0" expanded="false" />
+            <element signature="e#15920#16149#0" expanded="false" />
+            <element signature="e#16150#16371#0" expanded="false" />
+            <element signature="e#16373#16475#0" expanded="false" />
+            <element signature="e#16476#16570#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="238" column="19" selection-start-line="238" selection-start-column="19" selection-end-line="238" selection-end-column="19" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#10899#11723#0" expanded="false" />
+            <element signature="e#11724#12540#0" expanded="false" />
+            <element signature="e#12542#13369#0" expanded="false" />
+            <element signature="e#13370#14189#0" expanded="false" />
+            <element signature="e#14191#15047#0" expanded="false" />
+            <element signature="e#15048#15918#0" expanded="false" />
+            <element signature="e#15920#16149#0" expanded="false" />
+            <element signature="e#16150#16371#0" expanded="false" />
+            <element signature="e#16373#16475#0" expanded="false" />
+            <element signature="e#16476#16570#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/移动端简历/jianli/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4469178">
+          <caret line="167" column="36" selection-start-line="167" selection-start-column="36" selection-end-line="167" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="10.296233">
+          <caret line="598" column="33" selection-start-line="598" selection-start-column="33" selection-end-line="598" selection-end-column="33" />
+          <folding>
+            <element signature="e#10899#11723#0" expanded="false" />
+            <element signature="e#11724#12540#0" expanded="false" />
+            <element signature="e#12542#13369#0" expanded="false" />
+            <element signature="e#13370#14189#0" expanded="false" />
+            <element signature="e#14191#15047#0" expanded="false" />
+            <element signature="e#15048#15918#0" expanded="false" />
+            <element signature="e#15920#16149#0" expanded="false" />
+            <element signature="e#16150#16371#0" expanded="false" />
+            <element signature="e#16373#16475#0" expanded="false" />
+            <element signature="e#16476#16570#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

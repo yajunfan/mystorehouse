@@ -169,7 +169,7 @@ html {
     animation: bounceInLeft 1s linear 0.8s both;
 }
 #page2 img:nth-child(4){
-    -webkit-animation: rotate 1s linear 1.2s both;
+    -webkit-animation: bounceInDown 1s linear 1.2s both;
     animation: bounceInDown 1s linear 1.2s both;
 }
 #page2 img:nth-child(5){
