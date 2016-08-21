@@ -21,8 +21,8 @@ html {
     top: .2rem;
     right: .2rem;
     z-index: 1000;
-    width: .4rem;
-    height: .4rem;
+    width: .6rem;
+    height: .6rem;
     background: url("../audio/music.svg") no-repeat;
     background-size: 100% 100%;
 }
@@ -31,8 +31,8 @@ html {
 }
 
 .music.move {
-    -webkit-animation: musicMove .5s linear 0s infinite both;
-    animation: musicMove .5s linear 0s infinite both;
+    -webkit-animation: musicMove 0s linear 0s infinite both;
+    animation: musicMove 0s linear 0s infinite both;
 }
 
 @-webkit-keyframes musicMove {
@@ -141,7 +141,7 @@ html {
     top:5.2rem;
 }
 .slide2 p{
-    width: 5rem;
+    width: 6rem;
     font-size: 0.4rem;
     height: 0.55rem;
     line-height: 0.55rem;
@@ -205,10 +205,12 @@ html {
 .slide3 img{  width:3.6rem;  height: 2.7rem;  left:0; bottom:0rem;opacity: 0}
 .slide3 p{opacity: 0}
 .slide3 p{position: absolute;  padding: .05rem .4rem;  font-size: 0.42rem;  }
-.slide3 p:nth-child(1){  left: 1rem;  top:0.5rem;  font-size: 0.5rem;  }
+.slide3 p:nth-child(1){  left: 1rem;  top:0.5rem;  font-size: 0.5rem; color: #412816
+}
 .slide3 p:nth-child(2){  left: 0rem;  top:2.3rem;  font-size: 0.36rem;  text-shadow:0.01rem 0.01rem 0.01rem darkblue;}
-.slide3 p:nth-child(3){  right: 0rem;  top:2.8rem;  font-size: 0.46rem;}
-.slide3 p:nth-child(4){  left:0rem;  top:3.6rem;}
+.slide3 p:nth-child(3){  right: 0rem;  top:2.8rem;  font-size: 0.46rem; color: blue}
+.slide3 p:nth-child(4){  left:0rem;  top:3.6rem;color: #ff29fe
+}
 .slide3 p:nth-child(5){  left: 0.6rem;  top:4.5rem;  font-size: 0.52rem;  color: #007aff;}
 .slide3 p:nth-child(6){  right: 0.2rem;  top:5.4rem;  font-size: 0.45rem;  color: red}
 .slide3 p:nth-child(7){  left: 0.4rem;  top:6.4rem;  font-size: 0.6rem;  color: lawngreen;}
@@ -227,7 +229,7 @@ html {
     color:lightseagreen;
 }
 .slide3 p:nth-child(10){  right: 0rem;  top:8.7rem;  font-size: 0.52rem;  text-shadow:0.01rem 0.01rem 0.01rem #ffffff;}
-.slide3 p:nth-child(11){  left: 0rem;  top:1.3rem;  font-size: 0.50rem;text-shadow:0.02rem 0.02rem 0.03rem #2023ff;color: #ff1a29
+.slide3 p:nth-child(11){  left: 0rem;  top:1.3rem;  font-size: 0.55rem;text-shadow:0.02rem 0.02rem 0.03rem #2023ff;color: #ff1a29
 }
 .slide3 p:nth-child(12){
     border: 0.01rem solid green;
@@ -239,35 +241,35 @@ html {
     font-size: 0.50rem;
 }
 #page3 img{
-    -webkit-animation: rotateIn 0.5s linear 5.5s both;
-    animation: rotateIn 0.5s linear 5.5s both;}
+    -webkit-animation: rotateIn 0.5s linear 5.8s both;
+    animation: rotateIn 0.5s linear 5.8s both;}
 #page3 p:nth-child(1){  -webkit-animation: bounceInDown 0.5s linear 0s both;
     animation: bounceInDown 0.5s linear 0s both;}
-#page3 p:nth-child(2){  -webkit-animation: bounceInDown 0.5s linear 0.5s both;
-    animation: bounceInDown 0.5s linear 0.5s both;}
-#page3 p:nth-child(3){  -webkit-animation: bounceInDown 0.5s linear 1s both;
-    animation: bounceInDown 0.5s linear 1s both;}
-#page3 p:nth-child(4){  -webkit-animation: bounceInDown 0.5s linear 1.5s both;
-    animation: bounceInDown 0.5s linear 1.5s both;}
+#page3 p:nth-child(2){  -webkit-animation: bounceInLeft 0.5s linear 0.5s both;
+    animation: bounceInLeft 0.5s linear 0.5s both;}
+#page3 p:nth-child(3){  -webkit-animation: bounceInRight 0.5s linear 1s both;
+    animation:  bounceInRight 0.5s linear 1s both;}
+#page3 p:nth-child(4){  -webkit-animation: rubberBand 0.5s linear 1.5s both;
+    animation: rubberBand 0.5s linear 1.5s both;}
 #page3 p:nth-child(5){  -webkit-animation: bounceInDown 0.5s linear 2s both;
     animation: bounceInDown 0.5s linear 2s both;}
 #page3 p:nth-child(6){  -webkit-animation: bounceInDown 0.5s linear 2.5s both;
     animation: bounceInDown 0.5s linear 2.5s both;}
 #page3 p:nth-child(7){  -webkit-animation: bounceInDown 0.5s linear 3s both;
-    animation: bounceInDown 0.5s linear 3.5s both;}
-#page3 p:nth-child(8){  -webkit-animation: bounceInDown 0.5s linear 4s both;
-    animation: bounceInDown 0.5s linear 4s both;}
-#page3 p:nth-child(9){  -webkit-animation: bounceInDown 0.5s linear 4.5s both;
+    animation: bounceInDown 0.5s linear 3s both;}
+#page3 p:nth-child(8){  -webkit-animation: bounceInRight 0.5s linear 3.5s both;
+    animation: bounceInRight 0.5s linear 3.5s both;}
+#page3 p:nth-child(9){  -webkit-animation: bounceInLeft 0.5s linear 4s both;
+    animation: bounceInLeft 0.5s linear 4s both;}
+#page3 p:nth-child(10){  -webkit-animation: bounceInDown 0.5s linear 4.5s both;
     animation: bounceInDown 0.5s linear 4.5s both;}
-#page3 p:nth-child(10){  -webkit-animation: bounceInDown 0.5s linear 5s both;
-    animation: bounceInDown 0.5s linear 5s both;}
-#page3 p:nth-child(11){  -webkit-animation: bounceInDown 0.5s linear 5.5s both;
-    animation: bounceInDown 0.5s linear 5.5s both;}
-#page3 p:nth-child(12){  -webkit-animation: bounceInDown 0.5s linear 6s both;
-    animation: bounceInDown 0.5s linear 6.5s both;}
+#page3 p:nth-child(11){  -webkit-animation:  zoomIn 0.5s linear 5s both;
+    animation: zoomIn 0.5s linear 5s both;}
+#page3 p:nth-child(12){  -webkit-animation: rotateIn 0.5s linear 5.5s both;
+    animation: rotateIn 0.5s linear 5.5s both;}
 .slide4 p{opacity: 0;}
 .slide4 img{  width: 3.2rem;  height: 3rem;  left:-0.8rem;  top:0.5rem;opacity: 0;}
-.slide4 p{ position: absolute;  width: 5.4rem;  height: 6.5rem;  font-size: 0.36rem;  }
+.slide4 p{ position: absolute;  width: 5.6rem;  height: 6.8rem;  font-size: 0.36rem; text-shadow: none   }
 .slide4 p:nth-child(2){  left:1.6rem;  top:0.8rem;}
 .slide4 p:nth-child(3){  left: 1.6rem;  top:3.2rem;}
 .slide4 p:nth-child(4){  left: 1.6rem;  top:5.5rem;}
